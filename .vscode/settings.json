@@ -1,0 +1,14 @@
+{
+    "terminal.explorerKind": "integrated",
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.extraPaths": [
+        "./opencv-4.7.0/modules/python/package",
+        "./opencv/sources/modules/python/python3"
+        
+    ],
+    "python.testing.pytestArgs": [
+        "code"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
