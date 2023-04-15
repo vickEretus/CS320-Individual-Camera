@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Arduino code",
+			"path": "Arduino code/Arduino code"
+		}
+	],
+	"settings": {
+		"terminal.explorerKind": "integrated"
+	}
+}
